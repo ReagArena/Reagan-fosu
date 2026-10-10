@@ -17,7 +17,7 @@ I am an entry-level Data Analyst with a background in Computer Science and Appli
 
 | Project Title | Core Tech Stack | Primary Focus & Domain | Link |
 |---|---|---|---|
-| **01. Education Academic & Attendance Analytics** | SQL (BigQuery), Python, Google Sheets | Student academic performance evaluation, attendance tracking, and risk modeling. | [View Repository](https://github.com/ReganKwakuKonaduFosu/01_Education_Analytics) |
+| **01. Education Academic & Attendance Analytics** | SQL (BigQuery), Google Sheets | Student academic performance evaluation, attendance tracking, and risk modeling. | [View Repository](https://github.com/ReganKwakuKonaduFosu/01_Education_Analytics) |
 | **02. Hospital Operational & Patient Flow Analytics** | SQL, Python, Power BI | Healthcare KPI tracking, ER patient wait times, readmission rate analysis, and hospital performance metrics. | [View Repository](https://github.com/ReganKwakuKonaduFosu/02_Healthcare_Analytics) |
 | **03. Walmart Retail Sales & Demand Analytics** | Python (Pandas), Excel, Gemini AI | Multi-year retail revenue trends, category pricing, regional sales performance, and demand volatility modeling (M5 dataset). | [View Repository](https://github.com/ReganKwakuKonaduFosu/03_Walmart_Retail_Analytics) |
 
@@ -43,7 +43,7 @@ I am an entry-level Data Analyst with a background in Computer Science and Appli
 
 ### 🎓 3. Student Academic & Attendance Risk Modeling
 * **Objective:** Developed an education analytics project assessing student grade performance, attendance correlations, and early intervention indicators.
-* **Key Deliverables:** Designed synthetic relational schema tables, transformed raw academic records with Python and SQL, and generated performance dashboards.
+* **Key Deliverables:** Designed synthetic relational schema tables, transformed raw academic records with SQL and Google Sheet, and generated performance dashboards.
 * **Impact:** Built early-warning risk profiles identifying students at risk of academic drop-off based on attendance thresholds and continuous assessment trends.
 * 🔗 **[Explore Repository](https://github.com/ReganKwakuKonaduFosu/01_Education_Analytics)**
 
